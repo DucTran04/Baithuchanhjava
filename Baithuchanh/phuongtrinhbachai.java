@@ -14,10 +14,11 @@ public class phuongtrinhbachai {
         heSoC = sc.nextDouble();
 
         if(heSoA == 0){
-            if(heSoB == 0 && heSoC != 0) {
+            if(heSoB == 0 && heSoC == 0) {
+                System.out.println("phuong trinh vo so nghiem");
+            }else if(heSoB == 0 && heSoC != 0) {
                 System.out.println("phuong trinh vo nghiem");
-
-            } else {
+            }else{
                 x = -heSoC/heSoB;
                 System.out.println("phuong trinh co nghiem la x="+x);
             }
