@@ -1,7 +1,7 @@
 // Phương trình bậc hai-chương 2
 
 import java.util.Scanner;
-import java.lang.Math;
+
 public class phuongtrinhbachai {
     public static void main(String[] args) {
         double heSoA, heSoB, heSoC, delTa, x, x1, x2;
@@ -24,7 +24,7 @@ public class phuongtrinhbachai {
             }
 
             }else{
-                delTa = Math.pow(heSoB,2)-4*heSoA*heSoC;
+                delTa = heSoB*heSoB-4*heSoA*heSoC;
                 if( delTa < 0){
                     System.out.println("phuong trinh vo nghiem");
 
