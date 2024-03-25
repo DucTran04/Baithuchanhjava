@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Mainclass",
+            "request": "launch",
+            "mainClass": "Mainclass",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "bai1",
+            "request": "launch",
+            "mainClass": "bai1",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "bai10",
+            "request": "launch",
+            "mainClass": "bai10",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "bai11",
+            "request": "launch",
+            "mainClass": "bai11",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "bai12",
+            "request": "launch",
+            "mainClass": "bai12",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "bai2",
+            "request": "launch",
+            "mainClass": "bai2",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "bai3",
+            "request": "launch",
+            "mainClass": "bai3",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "bai4",
+            "request": "launch",
+            "mainClass": "bai4",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "bai5",
+            "request": "launch",
+            "mainClass": "bai5",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "bai6",
+            "request": "launch",
+            "mainClass": "bai6",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "bai7",
+            "request": "launch",
+            "mainClass": "bai7",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "bai8",
+            "request": "launch",
+            "mainClass": "bai8",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "bai9",
+            "request": "launch",
+            "mainClass": "bai9",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "classperson",
+            "request": "launch",
+            "mainClass": "classperson",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "ketqua",
+            "request": "launch",
+            "mainClass": "ketqua",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "mainclass",
+            "request": "launch",
+            "mainClass": "mainclass",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "phuongtrinhbachai",
+            "request": "launch",
+            "mainClass": "phuongtrinhbachai",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "phuongtrinhbacnhat",
+            "request": "launch",
+            "mainClass": "phuongtrinhbacnhat",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "slide30",
+            "request": "launch",
+            "mainClass": "slide30",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "slide35",
+            "request": "launch",
+            "mainClass": "slide35",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "slide40",
+            "request": "launch",
+            "mainClass": "slide40",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "slide47",
+            "request": "launch",
+            "mainClass": "slide47",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "slide55",
+            "request": "launch",
+            "mainClass": "slide55",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "slide74",
+            "request": "launch",
+            "mainClass": "slide74",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "slide81",
+            "request": "launch",
+            "mainClass": "slide81",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "slide90",
+            "request": "launch",
+            "mainClass": "slide90",
+            "projectName": "Baithuchanhjava_94d29c90"
+        }
+    ]
+}

@@ -4,6 +4,7 @@ public class bai11 {
     public static void main(String[] args) {
         int n, i, temp;
         Scanner sc = new Scanner(System.in);
+        
         do {
             System.out.print("So phan tu cua mang la ");
             n = sc.nextInt();
