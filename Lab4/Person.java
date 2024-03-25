@@ -7,22 +7,17 @@ public class Person {
     public Person() {
     }
 
-    public Person(String name, int age) {
-        this.name = name;
-        this.age = age;
-    }
-
     public void input() {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Nhập tên: ");
+        System.out.print("Nhap ten: ");
         name = sc.nextLine();
-        System.out.print("Nhập tuổi: ");
+        System.out.print("Nhap tuoi: ");
         age = sc.nextInt();
     }
 
     public void output() {
-        System.out.println("Tên: " + name);
-        System.out.println("Tuổi: " + age);
+        System.out.println("Ten: " + name);
+        System.out.println("Tuoi: " + age);
     }
 }
 
