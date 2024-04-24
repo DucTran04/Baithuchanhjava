@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
+        "Lab5",
         "Lab4",
         "Lab3",
         "Lab2",
         "Baithuchanh",
-        "Lab5"
+        "Lab6"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }

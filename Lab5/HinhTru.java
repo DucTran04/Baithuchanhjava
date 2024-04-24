@@ -1,6 +1,6 @@
-public class HinhTru extends HinhTron {
+public class HINHTRU extends HINHTRON {
     @Override
-    public void  xuatThongtin(){
+    public void  XuatThongTin(){
         System.out.println("Day la hinh tru!");
     }
 

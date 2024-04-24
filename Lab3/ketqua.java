@@ -1,5 +1,5 @@
 
-public class ketqua {
+public class Ketqua {
     public static void main(String[] args) {
         hinhtron ht = new hinhtron();
         ht.xuatTen();

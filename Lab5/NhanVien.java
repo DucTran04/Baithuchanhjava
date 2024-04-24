@@ -13,7 +13,7 @@ public class NhanVien {
     public void XuatThongTin(){
         System.out.println("Nhan vien: "+Name+"  ");
         System.out.println("Loai nhan vien: "+loaiNhanVien());
-        System.out.println("Luong: "+Salary+"VND");
+        System.out.println("Luong: "+Salary+" VND");
     }
 
 
