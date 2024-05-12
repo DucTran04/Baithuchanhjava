@@ -5,6 +5,20 @@
     "version": "0.2.0", "configurations": [
         {
             "type": "java",
+            "name": "max",
+            "request": "launch",
+            "mainClass": "max",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "Arrlist",
+            "request": "launch",
+            "mainClass": "Arrlist",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
             "name": "DONGVAT",
             "request": "launch",
             "mainClass": "DONGVAT",
