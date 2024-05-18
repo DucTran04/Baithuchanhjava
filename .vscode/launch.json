@@ -5,6 +5,13 @@
     "version": "0.2.0", "configurations": [
         {
             "type": "java",
+            "name": "Bai1",
+            "request": "launch",
+            "mainClass": "Bai1",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
             "name": "Slide41",
             "request": "launch",
             "mainClass": "Slide41",
