@@ -5,6 +5,20 @@
     "version": "0.2.0", "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
+            "name": "Bai5",
+            "request": "launch",
+            "mainClass": "Bai5",
+            "projectName": "Baithuchanhjava_94d29c90"
+        },
+        {
+            "type": "java",
             "name": "Bai1",
             "request": "launch",
             "mainClass": "Bai1",
