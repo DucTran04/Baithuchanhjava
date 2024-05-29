@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.Collections;
 public class Bai1 {
     public static void main(String[] args) {
-        ArrayList<Integer> Arraylist = new ArrayList<>();
+        ArrayList<Integer> Arraylist = new ArrayList<>()
         Scanner sc = new Scanner(System.in);
         int number;
     

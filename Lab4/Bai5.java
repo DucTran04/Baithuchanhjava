@@ -1,4 +1,5 @@
-import java.util.HashMap;
+public class Bai5 {
+    import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
@@ -90,4 +91,7 @@ public class Bai5 {
      }
 
     }
+}
+
+    
 }
